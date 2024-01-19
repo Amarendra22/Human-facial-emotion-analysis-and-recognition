@@ -1,4 +1,4 @@
-# Emotion_detection_with_CNN
+# Human-facial emotion analysis and recognitio with CNN
 This project will detect 7 types of facial emotion, angry, disgust, fear, happy, neutral, sad, surprise.
 
 ### Packages that I have used and need to be installed
